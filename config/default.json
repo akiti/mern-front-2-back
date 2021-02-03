@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://tony:tony@cluster0.oul44.mongodb.net/test",
+    "jsonKey": "tonyHack"
+}
